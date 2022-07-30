@@ -12,6 +12,9 @@ Data/
 Images/
 images/
 
+Slides/
+slides/
+
 # Distribution / packaging
 .Python
 build/
