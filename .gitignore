@@ -15,6 +15,10 @@ images/
 Slides/
 slides/
 
+json/
+Json/
+JSON/
+
 # Distribution / packaging
 .Python
 build/
